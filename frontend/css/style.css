@@ -35,7 +35,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 500px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
@@ -58,7 +58,7 @@ header .container {
 .menu {
   display: flex;
   gap: 2rem;
-  align-items: center;
+  align-items: right;
 }
 
 /* NOT CONNECTED */
