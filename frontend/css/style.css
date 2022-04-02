@@ -9,10 +9,10 @@
   --font-secondary: "Rubik Wet Pain", swap;
   --font-code: "Rubik Wet Pain", swap;
   --bg-color: #000000;
-  --bg-color-transparent: #ff000080;
-  --font-color: #ffffff;
+  --bg-color-transparent: #ff000097;
+  --font-color: #ff000097;
   --btn-bg-color: #ffffff;
-  --accent-color: #ff0000;
+  --accent-color: #ffffff;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
