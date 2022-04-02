@@ -1,18 +1,18 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee&family=Rubik+Wet+Paint&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Rubik Wet Paint", swap;
-  --font-secondary: "Rubik Wet Pain", swap;
-  --font-code: "Rubik Wet Pain", swap;
+  --font-primary: "Bungee", sans-serif;
+  --font-secondary: "Arvo", serif;
+  --font-code: "Roboto", monospace;
   --bg-color: #000000;
-  --bg-color-transparent: #ff000097;
-  --font-color: #ff000097;
+  --bg-color-transparent: #ff000080;
+  --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #ffffff;
+  --accent-color: #ff0000;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
