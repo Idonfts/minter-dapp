@@ -5,8 +5,8 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Bebas Neue", sans-serif;
-  --font-secondary: "Audiowide", serif;
+  --font-primary: "Audiowide", sans-serif;
+  --font-secondary: "Bebas Neue", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #000000;
   --bg-color-transparent: #a00000;
