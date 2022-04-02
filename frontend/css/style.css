@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Rubik", sans-serif;
-  --font-secondary: "Wet", serif;
-  --font-code: "Paint", monospace;
+  --font-primary: "Rubik Wet Paint", swap;
+  --font-secondary: "Rubik Wet Pain", swap;
+  --font-code: "Rubik Wet Pain", swap;
   --bg-color: #000000;
   --bg-color-transparent: #ff000080;
   --font-color: #ffffff;
