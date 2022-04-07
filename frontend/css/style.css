@@ -1,12 +1,12 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Beau+Rivage&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Exo+2:wght@100&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Audiowide", sans-serif;
-  --font-secondary: "Beau Rivage", serif;
+  --font-secondary: "Exo 2", serif;
   --font-code: "Audiowide", monospace;
   --bg-color: #000000;
   --bg-color-transparent: #a00000;
