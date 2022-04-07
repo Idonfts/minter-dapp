@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Space Mau Mafia NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = '';
+const welcome_p = 'Space Mau Mafia is a collection of 9.999 unique Mau NFTs — unique digital collectibles living on the Polygon blockchain - randomly generated from 275+ traits. SMM holders will be granted exclusive access to drops, giveaways, cryptocurrency -50% of MATIC cenerate during the Mint Phase- and much more. On top of that the collection contains 3 UltraRare Maus each giving access to a defined amount of Matic. Find out how much they are worth on our roadmap. Join the Family.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
