@@ -318,7 +318,7 @@ section {
 
 .splide {
   position: absolute;
-  top: 70px;
+  top: 90px;
   left: 5rem;
   z-index: -1;
 }
@@ -329,7 +329,7 @@ section {
 }
 
 .splide__slide img {
-  width: 70%;
+  width: 100%;
 }
 
 /* SPINNER */
