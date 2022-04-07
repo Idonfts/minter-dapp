@@ -13,7 +13,7 @@
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #a00000;
-  --header-shadow: var(--accent-color) 0px 0px 0px;
+  --header-shadow: var(--font-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 10px;
 }
 
@@ -329,7 +329,7 @@ section {
 }
 
 .splide__slide img {
-  width: 100%;
+  width: 50%;
 }
 
 /* SPINNER */
