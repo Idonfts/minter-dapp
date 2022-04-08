@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Comfortaa", sans-serif;
-  --font-secondary: "Merriweather", serif;
-  --font-code: "Orbitron", monospace;
+  --font-primary: "Merriweather", sans-serif;
+  --font-secondary: "Comfortaa", serif;
+  --font-code: "Merriweather", monospace;
   --bg-color: #070707;
   --bg-color-transparent: #a00000;
   --font-color: #ffffff;
