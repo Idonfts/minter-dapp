@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Boogaloo&family=Comfortaa:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Carter+One&family=Comfortaa:wght@300&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Boogaloo", sans-serif;
+  --font-primary: "Carter One", sans-serif;
   --font-secondary: "Comfortaa", serif;
-  --font-code: "Boogaloo", monospace;
+  --font-code: "Carter One", monospace;
   --bg-color: #070707;
   --bg-color-transparent: #a00000;
   --font-color: #ffffff;
