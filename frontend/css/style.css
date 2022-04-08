@@ -5,7 +5,7 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Orbitron", sans-serif;
+  --font-primary: "Orbitron", serif;
   --font-secondary: "Comfortaa", serif;
   --font-code: "Orbitron", monospace;
   --bg-color: #070707;
