@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Exo+2:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Merriweather:wght@300&family=Orbitron&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Audiowide", sans-serif;
-  --font-secondary: "Exo 2", serif;
-  --font-code: "Audiowide", monospace;
+  --font-primary: "Comfortaa", sans-serif;
+  --font-secondary: "Merriweather", serif;
+  --font-code: "Orbitron", monospace;
   --bg-color: #070707;
   --bg-color-transparent: #a00000;
   --font-color: #ffffff;
