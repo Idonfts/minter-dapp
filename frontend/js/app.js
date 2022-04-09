@@ -315,8 +315,8 @@ async function mint() {
         .mint(amount)
         .send({ from: window.address, value: value.toString() });
       if(mintTransaction) {
-        if(chain === 'rinkeby') {
-          const url = `https://rinkeby.etherscan.io/tx/${mintTransaction.transactionHash}`;
+        if(chain === 'polygon') {
+          const url = `https://polygonscan.com/tx/${mintTransaction.transactionHash}`;
           const mintedContainer = document.querySelector('.minted-container');
           const countdownContainer = document.querySelector('.countdown');
           const mintedTxnBtn = document.getElementById("mintedTxnBtn");
