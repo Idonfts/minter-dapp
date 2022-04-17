@@ -136,6 +136,12 @@ header .container {
   padding: 1.5rem 3rem;
 }
 
+.my-btn {
+  border-radius: 10rem;
+  margin-left: 4rem;
+  border-color: transparent;
+}
+
 /* CARD */
 
 .card {
