@@ -1,4 +1,4 @@
-const contractAddress = "0xCd637B24cb29760510F6E7b723AcE4cF98625218"; //Replace with your own contract address
+const contractAddress = "0x79B1e2CbDE529A579203329E32bad9129274e8b0"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Space Mau Mafia NFT Project!!";
